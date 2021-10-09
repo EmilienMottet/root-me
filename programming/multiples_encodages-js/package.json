@@ -1,0 +1,16 @@
+{
+  "name": "multiples_encodages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "encoding": "^0.1.13",
+    "hi-base32": "^0.5.1",
+    "morse-decoder": "^3.0.1"
+  }
+}
